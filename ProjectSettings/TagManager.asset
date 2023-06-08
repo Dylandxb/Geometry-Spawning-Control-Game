@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boundary
+  - Circle
+  - Capsule
+  - HexFlat
+  - HexPoint
+  - HexJoined
+  - LazerBeam
+  - Lazer1
+  - Lazer2
+  - Lazer3
+  - Lazer4
+  - Lazer5
+  - Lazer6
+  - Lazer7
+  - Lazer8
+  - CapsuleTarget
+  - Target1
+  - Target2
+  - Target3
+  - Target4
+  - Target5
+  - Target6
+  - Target7
+  - Target8
+  - Target9
+  - Target10
+  - Target11
+  - Target12
+  - Target
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BaseLayer
+  - CollisionLayer
+  - TargetLayer
+  - CircleLayer
+  - HexLayer
+  - CapLayer
+  - DiaLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
